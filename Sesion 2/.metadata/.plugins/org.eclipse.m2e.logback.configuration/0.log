@@ -445,3 +445,59 @@
 2016-08-18 07:52:22,105 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
 2016-08-18 07:52:22,107 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-08-18 07:52:22,107 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 08:18:12,603 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 08:18:12,603 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 08:18:12,603 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 08:18:12,619 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:25:49,897 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:25:49,897 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:25:49,913 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:25:49,913 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:26:06,121 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:26:06,121 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:26:06,121 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:26:06,121 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:27:40,297 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:27:40,297 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:27:40,297 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:27:40,297 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:27:48,861 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:27:48,861 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:27:48,861 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:27:48,861 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:28:11,093 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:28:11,093 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:28:11,093 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:28:11,093 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:28:12,622 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:28:12,622 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:28:12,622 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:28:12,622 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:40:12,551 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:40:12,551 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:40:12,567 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:40:12,567 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:48:36,327 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:48:36,327 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:48:36,327 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:48:36,327 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:48:50,086 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:48:50,086 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:48:50,086 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:48:50,086 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:55:40,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:55:40,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:55:40,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:55:40,657 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:55:43,419 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:55:43,419 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:55:43,434 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:55:43,434 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:56:24,602 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:56:24,602 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:56:24,602 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:56:24,602 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources
+2016-08-18 09:56:47,487 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:56:47,487 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\main\resources
+2016-08-18 09:56:47,487 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-08-18 09:56:47,487 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\repositorioSI\PrograWebSI\Sesion 2\appsesion2\src\test\resources

@@ -1,0 +1,10 @@
+package pe.edu.upc.appsesion2;
+
+public class Mermelada {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
